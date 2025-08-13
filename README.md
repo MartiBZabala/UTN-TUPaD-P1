@@ -1,5 +1,7 @@
 # UTN-TUPaD-P1
 
--Martina Zabala
+
+-Martina Belén Zabala
 -Comision: 10
--Profe: Ariel Enferrel
+-Profesor: Ariel Enferrel
+
